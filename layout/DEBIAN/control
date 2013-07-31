@@ -1,0 +1,12 @@
+Package: com.rpetrich.cylo
+Name: Cylo
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Loader for Cycript Scripts
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+cylo@gmail.com>
+Depends: mobilesubstrate, firmware (>= 5.0), cycript
+Section: System
+Website: http://rpetri.ch/cydia/cylo/
+Depiction: http://rpetri.ch/cydia/cylo/
+dev: rpetrich

@@ -1,0 +1,6 @@
+[submodule "framework"]
+	path = framework
+	url = git://github.com/rpetrich/theos.git
+[submodule "Licensing"]
+	path = Licensing
+	url = git@github.com:rpetrich/Licensing.git
